@@ -1,5 +1,4 @@
 # JavaScript-Exercicios
  atividades de js
 
- respositorio de javascript
- exercicios----
+-- respositorio de javascript--
